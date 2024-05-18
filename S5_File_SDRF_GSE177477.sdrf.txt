@@ -1,0 +1,49 @@
+Source.Name	Comment..Sample_title.	Condition	Array.Data.File	FactorValue..clinical.information.
+
+GSM5374839	S1	Symptomatic	GSM5374839_S1.CEL	Symptomatic
+GSM5374840	S2	Symptomatic	GSM5374840_S2.CEL	Symptomatic
+GSM5374841	S3	Symptomatic	GSM5374841_S3.CEL	Symptomatic
+GSM5374842	S4	Symptomatic	GSM5374842_S4.CEL	Symptomatic
+GSM5374843	S5	Symptomatic	GSM5374843_S5.CEL	Symptomatic
+GSM5374844	S6	Symptomatic	GSM5374844_S6.CEL	Symptomatic
+GSM5374845	S7	Symptomatic	GSM5374845_S7.CEL	Symptomatic
+GSM5374846	S8	Symptomatic	GSM5374846_S8.CEL	Symptomatic
+GSM5374847	S9	Symptomatic	GSM5374847_S9.CEL	Symptomatic
+GSM5374848	S10	Symptomatic	GSM5374848_S10.CEL	Symptomatic
+GSM5374849	S11	Symptomatic	GSM5374849_S11.CEL	Symptomatic
+GSM5374850	S12	Asymptomatic	GSM5374850_S12.CEL	Asymptomatic
+GSM5374851	S13	Asymptomatic	GSM5374851_S13.CEL	Asymptomatic
+GSM5374852	S14	Asymptomatic	GSM5374852_S14.CEL	Asymptomatic
+GSM5374853	S15	Asymptomatic	GSM5374853_S15.CEL	Asymptomatic
+GSM5374854	S16	Asymptomatic	GSM5374854_S16.CEL	Asymptomatic
+GSM5374855	S17	Asymptomatic	GSM5374855_S17.CEL	Asymptomatic
+GSM5374856	S18	Asymptomatic	GSM5374856_S18.CEL	Asymptomatic
+GSM5374857	S19	Asymptomatic	GSM5374857_S19.CEL	Asymptomatic
+GSM5374858	S20	Asymptomatic	GSM5374858_S20.CEL	Asymptomatic
+GSM5374859	S21	Asymptomatic	GSM5374859_S21.CEL	Asymptomatic
+GSM5374860	S22	Asymptomatic	GSM5374860_S22.CEL	Asymptomatic
+GSM5374861	S23	Asymptomatic	GSM5374861_S23.CEL	Asymptomatic
+GSM5374862	S24	Asymptomatic	GSM5374862_S24.CEL	Asymptomatic
+GSM5374863	S25	Asymptomatic	GSM5374863_S25.CEL	Asymptomatic
+GSM5374864	S26	Asymptomatic	GSM5374864_S26.CEL	Asymptomatic
+GSM5374865	S27	Asymptomatic	GSM5374865_S27.CEL	Asymptomatic
+GSM5374866	S28	Asymptomatic	GSM5374866_S28.CEL	Asymptomatic
+GSM5374867	S29	Asymptomatic	GSM5374867_S29.CEL	Asymptomatic
+GSM5374868	S30	Healthy controls	GSM5374868_S30.CEL	Healthy
+GSM5374869	S31	Healthy controls	GSM5374869_S31.CEL	Healthy
+GSM5374870	S32	Healthy controls	GSM5374870_S32.CEL	Healthy
+GSM5374871	S33	Healthy controls	GSM5374871_S33.CEL	Healthy
+GSM5374872	S34	Healthy controls	GSM5374872_S34.CEL	Healthy
+GSM5374873	S35	Healthy controls	GSM5374873_S35.CEL	Healthy
+GSM5374874	S36	Healthy controls	GSM5374874_S36.CEL	Healthy
+GSM5374875	S37	Healthy controls	GSM5374875_S37.CEL	Healthy
+GSM5374876	S38	Healthy controls	GSM5374876_S38.CEL	Healthy
+GSM5374877	S39	Healthy controls	GSM5374877_S39.CEL	Healthy
+GSM5374878	S40	Healthy controls	GSM5374878_S40.CEL	Healthy
+GSM5374879	S41	Healthy controls	GSM5374879_S41.CEL	Healthy
+GSM5374880	S42	Healthy controls	GSM5374880_S42.CEL	Healthy
+GSM5374881	S43	Healthy controls	GSM5374881_S43.CEL	Healthy
+GSM5374882	S44	Healthy controls	GSM5374882_S44.CEL	Healthy
+GSM5374883	S45	Healthy controls	GSM5374883_S45.CEL	Healthy
+GSM5374884	S46	Healthy controls	GSM5374884_S46.CEL	Healthy
+GSM5374885	S47	Healthy controls	GSM5374885_S47.CEL	Healthy
